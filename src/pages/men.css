@@ -1,0 +1,23 @@
+.titlem{
+    text-align: center;
+    color: #3e2993;
+    font-size: 30px;
+    text-decoration-style: double;
+}
+.a{
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+}
+img{
+    width: 100%;
+}
+.divm{
+    background-color: #5b40c8;
+    border-bottom: black solid;
+}
+.buttonm{
+    font-size: 20px;
+  line-height: 20px;
+  background-color: #5b40c8;
+}

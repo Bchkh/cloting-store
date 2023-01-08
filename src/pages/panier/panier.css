@@ -1,0 +1,21 @@
+label{
+    display: block;
+    margin-top: 10px;
+}
+form{
+    margin: 5%;
+}
+.bt{
+    font-size: 7px;
+    line-height: 7px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 10px;
+    background-color: #F2EBEB;
+    padding: 12px 28px;
+    margin-left: 25%;
+    margin-top: 6%;
+    display: inline;
+}
+.a{
+    color: #000;
+}

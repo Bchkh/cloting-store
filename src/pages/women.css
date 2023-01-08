@@ -1,0 +1,24 @@
+
+.title{
+    text-align: center;
+    color: #b07373;
+    font-size: 30px;
+    text-decoration-style: double;
+}
+.a{
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+}
+img{
+    width: 100%;
+}
+.div{
+    background-color: #b07373;
+    border-bottom: black solid;
+}
+button{
+    font-size: 20px;
+  line-height: 20px;
+  background-color: #b07373;
+}

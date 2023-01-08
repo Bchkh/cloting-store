@@ -1,0 +1,31 @@
+.container {
+  text-align: center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.container strong {
+  font-size: 50px;
+  line-height: 26px;
+  color: #F2EBEB;
+}
+
+.container button{
+  font-size: 20px;
+  line-height: 20px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 10px;
+  background-color: #F2EBEB;
+  padding: 12px 28px;
+  margin: 10%;
+  
+}
+
+.container a {
+  text-decoration: none;
+  color: #000;
+  
+}
